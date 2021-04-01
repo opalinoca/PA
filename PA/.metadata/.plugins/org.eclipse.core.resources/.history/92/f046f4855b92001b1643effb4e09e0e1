@@ -1,0 +1,8 @@
+
+public class AloMundo {
+  public static void main (String args[]) { /**sempre terá esta linha */
+      System.out.println("Alo Mundo") ; { /**é o escreva do algoritmo */
+  }
+	
+}
+}

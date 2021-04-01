@@ -1,0 +1,13 @@
+
+public class AnoNascimento {
+  public static void main(String args[]) {
+	  double anoNascimento, anoAtual, idade;
+	  
+	  anoNascimento = 2003;
+	  anoAtual = 2021;
+	  
+	  idade = anoAtual-anoNascimento;
+	  
+	  System.out.printlm("O ano de nascimento é = "+anoNascimento+" e o valor do ano atual é = "+anoAtual);
+  }
+}

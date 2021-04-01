@@ -1,0 +1,14 @@
+
+public class TrianguloRetangulo {
+   public static void main(String args[]) {
+	   double b, h, a; //double para variáveis reais
+	   
+	   b = 10;
+	   h = 30;
+	   
+	   a = b*h/2;
+	   
+	   System.out.println("O valor da área do triangulo retângulo é "+a);
+	   
+   }
+}

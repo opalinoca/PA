@@ -1,0 +1,10 @@
+INDEX VERSION 1.131+C:\Users\aline\OneDrive\Documentos\PA\.metadata\.plugins\org.eclipse.jdt.core
+1872563506.index
+3835487724.index
+4283747055.index
+2578334529.index
+57585996.index
+485083862.index
+2145060444.index
+3538976377.index
+2068649984.index

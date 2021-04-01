@@ -1,0 +1,12 @@
+!DOCTYPE html>
+ <html lang="pt-br">
+     <head>
+       <meta charset="UTF-8">
+       <title>O CURSO</title>
+       <link rel="stylesheet" type="text/css" href="../CSS/style.css">
+     </head>
+     <body>
+         <h1>SOBRE O CURSO DE DESENVOLVIMENTO DE SISTEMAS</h1>
+         O TÉCNICO EM DESENVOLVIMENTO DE SISTEMAS é o profissional que analisa e projeta sistemas. Constrói, documenta, realiza testes e mantém sistemas de informação. Utiliza ambientes de desenvolvimento e linguagens de programação específica. Modela, implementa e mantém bancos de dados.
+     </body>
+ </html>

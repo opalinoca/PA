@@ -1,0 +1,17 @@
+
+public class ValoresInteiros {
+    public static void main(String args[]) {
+    	
+    	int valor1, valor2, soma;
+    	
+    	valor1 = 50;
+    	valor2 = 25;
+    	
+    	soma = valor1+valor2;
+    	
+    	Systems.out.println("A soma é = "+soma);
+    	
+    	
+    
+  }   
+}
